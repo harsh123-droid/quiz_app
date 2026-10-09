@@ -53,6 +53,4 @@ for n in sizes:
         f"{naive_time:.8f}"
     )
 
-a = 10
-b = 15
-print(a+b)
+    
